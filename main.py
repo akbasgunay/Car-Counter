@@ -68,7 +68,7 @@ def main():
     cap=cv2.VideoCapture("video.mp4")
 
     #model path
-    path='yolov5/yolov5m-fp16.tflite'
+    path='yolov5m-fp16.tflite'
 
     model = torch.hub.load('yolov5', 'custom', path,source='local')
 
