@@ -4,7 +4,7 @@ This project is created to count car objects in a traffic video using yolov5 and
 
 ## Instructions
 
-###Create a virtual environment
+Create a virtual environment
 #### For Linux:
 
 Run: 
@@ -25,4 +25,6 @@ Run: $ pip install -r requirements.txt
 Run: $ python main.py
 
 ## Demo
+
+
 
